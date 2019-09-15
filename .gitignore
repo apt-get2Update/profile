@@ -89,7 +89,7 @@ typings/
 .dynamodb/
 
 # Compiled files
-dist/
+# dist/
 
 ### Sass ###
 .sass-cache/
